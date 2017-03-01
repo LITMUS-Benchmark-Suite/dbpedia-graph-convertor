@@ -23,8 +23,6 @@ def build_graph(name_of_file):
             count+=1        
             if line[0]=='#':
                 pass
-            if count==10000000:
-                break
             if count%10000 == 0:
                 print(count, sys.getsizeof(dic_nodes) + sys.getsizeof(dic_nodes_rev) + sys.getsizeof(dic_edges) + sys.getsizeof(dic_props)) 
             m = line.split(" ")
