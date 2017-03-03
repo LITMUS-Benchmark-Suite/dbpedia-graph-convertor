@@ -1,0 +1,16 @@
+article_categories_en.ttl.bz2
+article_templates_en.ttl.bz2
+category_labels_en.ttl.bz2
+citation_data_en.ttl.bz2
+citation_links_en.ttl.bz2
+disambiguations_en.ttl.bz2
+disambiguations_unredirected_en.ttl.bz2
+external_links_en.ttl.bz2
+flickr_wrappr_links_en.ttl.bz2
+freebase_links_en.ttl.bz2
+genders_en.ttl.bz2
+geo_coordinates_en.ttl.bz2
+geo_coordinates_mappingbased_en.ttl.bz2
+geonames_links_en.ttl.bz2
+homepages_en.ttl.bz2
+images_en.ttl.bz2
